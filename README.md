@@ -1,6 +1,6 @@
 AVR-EAX-AES-bootloader
 ======================
-
+From: https://habr.com/ru/post/224383/
 Bootloader for AVR microcontrollers featuring EAX mode encryption (AES underlying) in 1024 bytes
 
 Usage:
